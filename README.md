@@ -2,7 +2,7 @@
 
 B.Tech Computer Science student (PSIT Kanpur, 2023–2027) building **cloud/DevOps tooling and AI automation systems**: agentic pipelines, MCP servers, and data workflows that run on a schedule without me.
 
-📍 Kanpur, India · 📫 [your-email@example.com](mailto:your-email@example.com) · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
+📍 Kanpur, India · 📫 [agrimshukla2004@gmail.com](mailto:agrimshukla@2004gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
 
 ---
 
