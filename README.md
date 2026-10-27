@@ -33,7 +33,7 @@ B.Tech Computer Science student (PSIT Kanpur, 2023–2027) building **cloud/DevO
 
 ## Activity
 
-![Contribution chart](https://contrib-chart.<your-subdomain>.workers.dev/chart.svg)
+![Contribution chart](https://contrib-chart.agrim12784.workers.dev/chart.svg)
 
 *Served live from a Cloudflare Worker that queries the GitHub GraphQL API.*)
 
