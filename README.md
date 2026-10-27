@@ -33,7 +33,9 @@ B.Tech Computer Science student (PSIT Kanpur, 2023–2027) building **cloud/DevO
 
 ## Activity
 
-![Contribution chart](assets/contributions.svg)
+![Contribution chart](https://contrib-chart.<your-subdomain>.workers.dev/chart.svg)
+
+*Served live from a Cloudflare Worker that queries the GitHub GraphQL API.*)
 
 *Rebuilt daily by a GitHub Actions workflow that queries the GraphQL API and commits the SVG to this repo.*
 
